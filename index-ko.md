@@ -11,7 +11,7 @@ description: "LVTag는 형식성, 공손함, 도메인 및 철자법 차원에�
 **작성자: Danslav Slavenskoj**  
 **날짜: 2025년 5월**
 
-**언어**: [中文简体](/index-zh.md) | [中文繁體](/index-zh-hant.md) | [Čeština](/index-cs.md) | [Deutsch](/index-de.md) | [English](/index.md) | [Español](/index-es.md) | [Français](/index-fr.md) | [Hrvatski](/index-hr.md) | [日本語](/index-ja.md) | 한국어 | [Polski](/index-pl.md) | [Português](/index-pt.md) | [Русский](/index-ru.md) | [Српски](/index-sr.md)
+**언어**: [中文简体](/index-zh.md)  [中文繁體](/index-zh-hant.md)  [Čeština](/index-cs.md)  [Deutsch](/index-de.md)  [English](/index.md)  [Español](/index-es.md)  [Français](/index-fr.md)  [Hrvatski](/index-hr.md)  [日本語](/index-ja.md)  한국어  [Polski](/index-pl.md)  [Português](/index-pt.md)  [Русский](/index-ru.md)  [Српски](/index-sr.md)
 
 ## 빠른 링크
 

@@ -11,7 +11,7 @@ description: "LVTag — это систематический подход к я
 **Создал Danslav Slavenskoj**  
 **Дата: Май 2025**
 
-**Языки**: [中文简体](/index-zh.md) | [中文繁體](/index-zh-hant.md) | [Čeština](/index-cs.md) | [Deutsch](/index-de.md) | [English](/index.md) | [Español](/index-es.md) | [Français](/index-fr.md) | [Hrvatski](/index-hr.md) | [日本語](/index-ja.md) | [한국어](/index-ko.md) | [Polski](/index-pl.md) | [Português](/index-pt.md) | Русский | [Српски](/index-sr.md)
+**Языки**: [中文简体](/index-zh.md)  [中文繁體](/index-zh-hant.md)  [Čeština](/index-cs.md)  [Deutsch](/index-de.md)  [English](/index.md)  [Español](/index-es.md)  [Français](/index-fr.md)  [Hrvatski](/index-hr.md)  [日本語](/index-ja.md)  [한국어](/index-ko.md)  [Polski](/index-pl.md)  [Português](/index-pt.md)  Русский  [Српски](/index-sr.md)
 
 ## Быстрые ссылки
 

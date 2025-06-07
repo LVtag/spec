@@ -11,7 +11,7 @@ description: "LVTag to systematyczne podejście do klasyfikacji języków, któr
 **Stworzony przez Danslava Slavenskoja**  
 **Data: Maj 2025**
 
-**Języki**: [中文简体](/index-zh.md) | [中文繁體](/index-zh-hant.md) | [Čeština](/index-cs.md) | [Deutsch](/index-de.md) | [English](/index.md) | [Español](/index-es.md) | [Français](/index-fr.md) | [Hrvatski](/index-hr.md) | [日本語](/index-ja.md) | [한국어](/index-ko.md) | Polski | [Português](/index-pt.md) | [Русский](/index-ru.md) | [Српски](/index-sr.md)
+**Języki**: [中文简体](/index-zh.md)  [中文繁體](/index-zh-hant.md)  [Čeština](/index-cs.md)  [Deutsch](/index-de.md)  [English](/index.md)  [Español](/index-es.md)  [Français](/index-fr.md)  [Hrvatski](/index-hr.md)  [日本語](/index-ja.md)  [한국어](/index-ko.md)  Polski  [Português](/index-pt.md)  [Русский](/index-ru.md)  [Српски](/index-sr.md)
 
 ## Szybkie linki
 

@@ -11,7 +11,7 @@ description: "LVTag es un enfoque sistemático para la clasificación de idiomas
 **Creado por Danslav Slavenskoj**  
 **Fecha: Mayo 2025**
 
-**Idiomas**: [中文简体](/index-zh.md) | [中文繁體](/index-zh-hant.md) | [Čeština](/index-cs.md) | [Deutsch](/index-de.md) | [English](/index.md) | Español | [Français](/index-fr.md) | [Hrvatski](/index-hr.md) | [日本語](/index-ja.md) | [한국어](/index-ko.md) | [Polski](/index-pl.md) | [Português](/index-pt.md) | [Русский](/index-ru.md) | [Српски](/index-sr.md)
+**Idiomas**: [中文简体](/index-zh.md)  [中文繁體](/index-zh-hant.md)  [Čeština](/index-cs.md)  [Deutsch](/index-de.md)  [English](/index.md)  Español  [Français](/index-fr.md)  [Hrvatski](/index-hr.md)  [日本語](/index-ja.md)  [한국어](/index-ko.md)  [Polski](/index-pl.md)  [Português](/index-pt.md)  [Русский](/index-ru.md)  [Српски](/index-sr.md)
 
 ## Enlaces rápidos
 
