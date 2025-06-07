@@ -2,6 +2,7 @@
 layout: default
 title: Language Variant Tag (LVTag) Spezifikation
 lang: de
+description: "LVTag ist ein systematischer Ansatz zur Sprachklassifikation, der BCP 47 durch private Subtags erweitert, um Sprachvarianten über die Dimensionen Formalität, Höflichkeit, Domäne und Orthographie präzise zu identifizieren."
 ---
 
 # LVTag-Spezifikation

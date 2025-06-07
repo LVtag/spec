@@ -1,12 +1,8 @@
 ---
-layout: home
-title: Specifikace Language Variant Tag (LVTag)
----
-
----
 layout: default
 title: Specifikace jazykového variantního značkování (LVTag)
 lang: cs
+description: "LVTag je systematický přístup ke klasifikaci jazyků, který rozšiřuje BCP 47 pomocí soukromých podznaček pro přesnou identifikaci jazykových variant napříč dimenzemi formálnosti, zdvořilosti, domény a ortografie."
 ---
 
 # Specifikace LVTag

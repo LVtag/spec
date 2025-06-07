@@ -2,6 +2,7 @@
 layout: default
 title: Especificação do Language Variant Tag (LVTag)
 lang: pt
+description: "LVTag é uma abordagem sistemática para classificação de idiomas que estende o BCP 47 usando subetiquetas de uso privado para identificação precisa de variedades linguísticas através das dimensões de formalidade, polidez, domínio e ortografia."
 ---
 
 # Especificação LVTag

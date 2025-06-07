@@ -2,6 +2,7 @@
 layout: default
 title: Language Variant Tag (LVTag) 仕様
 lang: ja
+description: "LVTagは、BCP 47をプライベート使用サブタグで拡張し、形式性、丁寧さ、ドメイン、正書法の次元にわたって言語変種を正確に識別するための体系的な言語分類アプローチです。"
 ---
 
 # LVTag 仕様

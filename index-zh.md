@@ -1,12 +1,8 @@
 ---
-layout: home
-title: 语言变体标记（LVTag）规范
----
-
----
 layout: default
 title: 语言变体标签（LVTag）规范
 lang: zh
+description: "LVTag是一种系统化的语言分类方法，通过使用私有子标签扩展BCP 47，以精确识别跨正式性、礼貌程度、领域和正字法维度的语言变体。"
 ---
 
 # LVTag 规范
