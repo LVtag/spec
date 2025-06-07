@@ -1,0 +1,17 @@
+# Valid tags
+en-x-form-3
+ko-x-f-4-p-2-d-business
+ja-x-form-3-conf-95
+x-proto-ine
+en-US-x-form-2-polite-3
+zh-Hans-x-ortho-pinyin
+ko-x-p-2-c-80-d-med-c-60
+
+# Invalid tags
+en-x-form-6
+en-x-form
+ko-x-unknown-value
+en-x-c-95
+sla-x-proto
+en-x-form-3-form-4
+en-x-q-test

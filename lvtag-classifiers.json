@@ -1,0 +1,236 @@
+{
+  "version": "1.0",
+  "description": "Machine-readable classifier specifications for Language Variant Tag (LVTag) format",
+  "classifiers": {
+    "ortho": {
+      "shortForm": "w",
+      "description": "Orthographic variant",
+      "type": "string",
+      "examples": ["new", "1901", "pinyin", "yivo", "revised", "trad"]
+    },
+    "form": {
+      "shortForm": "f",
+      "description": "Formality level",
+      "type": "numeric",
+      "scale": {
+        "min": 1,
+        "max": 5,
+        "values": {
+          "1": "Most formal (legal documents, ceremonies)",
+          "2": "Formal (business, academic)",
+          "3": "Neutral/standard",
+          "4": "Informal (casual conversation)",
+          "5": "Most casual (slang, intimate)"
+        }
+      }
+    },
+    "polite": {
+      "shortForm": "p",
+      "description": "Politeness/respect level",
+      "type": "numeric",
+      "scale": {
+        "min": 1,
+        "max": 5,
+        "values": {
+          "1": "Most respectful/deferential",
+          "2": "Very polite (honorifics)",
+          "3": "Polite/neutral",
+          "4": "Familiar (equals, friends)",
+          "5": "Intimate/plain"
+        }
+      }
+    },
+    "domain": {
+      "shortForm": "d",
+      "description": "Specialized vocabulary or professional context",
+      "type": "enum",
+      "values": {
+        "legal": "Legal terminology",
+        "med": "Medical terminology",
+        "tech": "Technical/IT",
+        "business": "Business/corporate",
+        "fin": "Finance/banking",
+        "acad": "Academic/scholarly",
+        "sci": "Scientific/research"
+      }
+    },
+    "geo": {
+      "shortForm": "g",
+      "description": "Geographic or regional variety",
+      "type": "string",
+      "examples": ["gyeong", "jeolla", "riopla", "nordeste", "southern", "northern"]
+    },
+    "proto": {
+      "shortForm": "a",
+      "description": "Proto-language or reconstructed language",
+      "type": "string",
+      "preferredValues": "ISO 639-5 codes",
+      "examples": ["ine", "gem", "sla", "sem", "cel", "baltslav"]
+    },
+    "hist": {
+      "shortForm": "h",
+      "description": "Historical period or stage of a language",
+      "type": "string",
+      "examples": ["old", "middle", "kobun", "hunmin", "koine", "vedic"]
+    },
+    "genre": {
+      "shortForm": "e",
+      "description": "Text genre or literary style",
+      "type": "string",
+      "examples": ["news", "manga", "webtoon", "shi", "bd", "marchen", "poetry"]
+    },
+    "medium": {
+      "shortForm": "m",
+      "description": "Communication medium",
+      "type": "string",
+      "examples": ["spoken", "written", "digital", "bcast", "sms", "signed"]
+    },
+    "socio": {
+      "shortForm": "s",
+      "description": "Sociolect or social group variety",
+      "type": "string",
+      "examples": ["academic", "urban", "juvenil", "jeune", "jugend", "online"]
+    },
+    "modality": {
+      "shortForm": "o",
+      "description": "Mode of language production",
+      "type": "string",
+      "examples": ["spoken", "written", "signed", "multi", "tactile"]
+    },
+    "register": {
+      "shortForm": "r",
+      "description": "Linguistic register",
+      "type": "string",
+      "examples": ["frozen", "formal", "consult", "casual", "intimate"]
+    },
+    "pragma": {
+      "shortForm": "u",
+      "description": "Communicative function",
+      "type": "string",
+      "examples": ["request", "apology", "complmnt", "greeting", "refusal"]
+    },
+    "temporal": {
+      "shortForm": "t",
+      "description": "Temporal marking",
+      "type": "string",
+      "examples": ["past", "nonpast", "atemprl", "future", "aspect"]
+    },
+    "evidence": {
+      "shortForm": "v",
+      "description": "Information source",
+      "type": "string",
+      "examples": ["direct", "hearsay", "infer", "assume", "quote"]
+    },
+    "affect": {
+      "shortForm": "k",
+      "description": "Emotional tone",
+      "type": "string",
+      "examples": ["angry", "humble", "joyful", "sad", "neutral"]
+    },
+    "age": {
+      "shortForm": "n",
+      "description": "Age/generation variety",
+      "type": "string",
+      "examples": ["child", "teen", "elder", "genz", "millenl"]
+    },
+    "gender": {
+      "shortForm": "i",
+      "description": "Gender variety",
+      "type": "string",
+      "examples": []
+    },
+    "expert": {
+      "shortForm": "b",
+      "description": "Expertise level",
+      "type": "numeric",
+      "scale": {
+        "min": 0,
+        "max": 10,
+        "ranges": {
+          "0": "No knowledge",
+          "1-2": "Beginner",
+          "3-4": "Intermediate",
+          "5-6": "Advanced",
+          "7-8": "Expert",
+          "9-10": "Master/Authority"
+        }
+      }
+    },
+    "interact": {
+      "shortForm": "2",
+      "description": "Interactional structure",
+      "type": "string",
+      "examples": ["turn", "overlap", "monolog", "dialog", "multi"]
+    },
+    "prosody": {
+      "shortForm": "y",
+      "description": "Prosodic features",
+      "type": "string",
+      "examples": ["stress", "pitch", "syllable", "tone", "rhythm"]
+    },
+    "lexical": {
+      "shortForm": "l",
+      "description": "Lexical density",
+      "type": "percentage",
+      "scale": {
+        "min": 0,
+        "max": 100,
+        "unit": "percent"
+      }
+    },
+    "syntax": {
+      "shortForm": "z",
+      "description": "Syntactic complexity",
+      "type": "percentage",
+      "scale": {
+        "min": 0,
+        "max": 100,
+        "unit": "percent"
+      }
+    },
+    "start": {
+      "shortForm": "0",
+      "description": "Start date (ISO 8601 without punctuation)",
+      "type": "date",
+      "format": "YYYYMMDD|YYYYMM|YYYY"
+    },
+    "end": {
+      "shortForm": "1",
+      "description": "End date (ISO 8601 without punctuation)",
+      "type": "date",
+      "format": "YYYYMMDD|YYYYMM|YYYY"
+    },
+    "taboo": {
+      "shortForm": "j",
+      "description": "Taboo/vulgar content level",
+      "type": "numeric",
+      "scale": {
+        "min": 0,
+        "max": 5,
+        "values": {
+          "0": "No taboo content",
+          "1": "Mild taboo",
+          "2": "Light taboo",
+          "3": "Moderate taboo",
+          "4": "High taboo",
+          "5": "Extreme taboo"
+        }
+      }
+    },
+    "conf": {
+      "shortForm": "c",
+      "description": "Confidence score for previous tag",
+      "type": "percentage",
+      "scale": {
+        "min": 0,
+        "max": 100,
+        "unit": "percent"
+      },
+      "special": "Applies to immediately preceding classifier"
+    }
+  },
+  "reserved": {
+    "shortForms": ["q", "3", "4", "5", "6", "7", "8", "9"],
+    "description": "Reserved for future use"
+  }
+}

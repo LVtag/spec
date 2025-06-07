@@ -1,0 +1,80 @@
+# Jekyll configuration for LVTag documentation site
+title: Language Variant Tag (LVTag) Specification
+description: >-
+  LVTag is a systematic approach to language classification that extends 
+  BCP 47 using private-use subtags for precise identification of language 
+  varieties across formality, politeness, domain, and orthography dimensions.
+baseurl: ""
+url: "https://lvtag.org"
+author: Danslav Slavenskoj
+
+# Build settings
+markdown: kramdown
+theme: minima
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Minima theme settings
+minima:
+  skin: classic
+  date_format: "%B %Y"
+  social_links:
+    github: lvtag/spec
+
+# Navigation - removed non-existent pages  
+header_pages:
+
+# Exclude files from site build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitignore
+  - "*.py"
+  - "*.js"
+  - test-tags.txt
+  - validators-README.md
+  - check_lvtag.py
+
+# Include specific files
+include:
+  - lvtag-schema.json
+  - lvtag-classifiers.json
+
+# Default settings
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "home"
+  - scope:
+      path: "index*.md"
+    values:
+      layout: "home"
+      
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO settings
+twitter:
+  card: summary
+logo: /assets/logo.png
+
+# Language support
+lang: en
+
+# Collections for multilingual support
+collections:
+  translations:
+    output: true
+    permalink: /:name
+
+# Permalink style
+permalink: pretty
