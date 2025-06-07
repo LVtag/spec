@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Language Variant Tag (LVTag) Specification
 ---
 

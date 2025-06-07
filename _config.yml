@@ -7,10 +7,11 @@ description: >-
 baseurl: ""
 url: "https://lvtag.org"
 author: Danslav Slavenskoj
+repository: lvtag/spec
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 kramdown:
   input: GFM
   syntax_highlighter: rouge
@@ -51,14 +52,15 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: "home"
+      layout: "default"
   - scope:
       path: "index*.md"
     values:
-      layout: "home"
+      layout: "default"
       
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
 
