@@ -407,9 +407,6 @@ Format:
 - Lang: `language-x-gender-[identity]`
 - Kurz: `language-x-i-[identity]`
 
-Beispiele:
-(Beispiele entfernt)
-
 #### 19. Expertisegrad-Klassifikator (`expert` oder `b`)
 Identifiziert den Grad der Domänenexpertise auf einer 0-10-Skala.
 

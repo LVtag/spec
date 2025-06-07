@@ -407,9 +407,6 @@ LVTag 支援長格式和短格式「魔術」分類器以提供靈活性：
 - 長格式：`language-x-gender-[identity]`
 - 短格式：`language-x-i-[identity]`
 
-示例：
-（示例已刪除）
-
 #### 19. 專業水平分類器（`expert` 或 `b`）
 識別 0-10 級的領域專業水平。
 

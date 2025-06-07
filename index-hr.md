@@ -407,9 +407,6 @@ Format:
 - Dugački: `language-x-gender-[identity]`
 - Kratki: `language-x-i-[identity]`
 
-Primjeri:
-(Primjeri uklonjeni)
-
 #### 19. Klasifikator razine stručnosti (`expert` ili `b`)
 Identificira razinu domenske stručnosti na skali 0-10.
 

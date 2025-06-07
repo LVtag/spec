@@ -405,8 +405,6 @@ Format:
 - Long: `language-x-gender-[identity]`
 - Short: `language-x-i-[identity]`
 
-Examples:
-(Examples removed)
 
 #### 19. Expertise Level Classifier (`expert` or `b`)
 Identifies level of domain expertise on a 0-10 scale.

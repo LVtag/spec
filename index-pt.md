@@ -407,9 +407,6 @@ Formato:
 - Longo: `language-x-gender-[identity]`
 - Curto: `language-x-i-[identity]`
 
-Exemplos:
-(Exemplos removidos)
-
 #### 19. Classificador de nível de expertise (`expert` ou `b`)
 Identifica o nível de expertise de domínio em uma escala de 0-10.
 

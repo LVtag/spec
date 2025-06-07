@@ -407,9 +407,6 @@ Formát:
 - Dlouhý: `language-x-gender-[identity]`
 - Krátký: `language-x-i-[identity]`
 
-Příklady:
-(Příklady odstraněny)
-
 #### 19. Klasifikátor úrovně odbornosti (`expert` nebo `b`)
 Identifikuje úroveň doménové odbornosti na stupnici 0-10.
 

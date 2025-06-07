@@ -407,9 +407,6 @@ Format :
 - Long : `language-x-gender-[identity]`
 - Court : `language-x-i-[identity]`
 
-Exemples :
-(Exemples supprimés)
-
 #### 19. Classificateur du niveau d'expertise (`expert` ou `b`)
 Identifie le niveau d'expertise du domaine sur une échelle de 0 à 10.
 

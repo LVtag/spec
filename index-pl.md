@@ -407,9 +407,6 @@ Format:
 - Długi: `language-x-gender-[identity]`
 - Krótki: `language-x-i-[identity]`
 
-Przykłady:
-(Przykłady usunięte)
-
 #### 19. Klasyfikator poziomu ekspertyzy (`expert` lub `b`)
 Identyfikuje poziom ekspertyzy domenowej w skali 0-10.
 

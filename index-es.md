@@ -407,9 +407,6 @@ Formato:
 - Largo: `language-x-gender-[identity]`
 - Corto: `language-x-i-[identity]`
 
-Ejemplos:
-(Ejemplos eliminados)
-
 #### 19. Clasificador de nivel de experiencia (`expert` o `b`)
 Identifica el nivel de experiencia en el dominio en una escala de 0-10.
 
