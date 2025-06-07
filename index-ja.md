@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: default
 title: Language Variant Tag (LVTag) 仕様
+lang: ja
 ---
 
 # LVTag 仕様

@@ -3,6 +3,12 @@ layout: home
 title: Specifikace Language Variant Tag (LVTag)
 ---
 
+---
+layout: default
+title: Specifikace jazykového variantního značkování (LVTag)
+lang: cs
+---
+
 # Specifikace LVTag
 
 **Verze 1.0**  

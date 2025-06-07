@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: default
 title: Especificación del Language Variant Tag (LVTag)
+lang: es
 ---
 
 # Especificación LVTag

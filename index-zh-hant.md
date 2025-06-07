@@ -3,6 +3,12 @@ layout: home
 title: 語言變體標記（LVTag）規範
 ---
 
+---
+layout: default
+title: 語言變體標籤（LVTag）規範
+lang: zh-Hant
+---
+
 # LVTag 規範
 
 **版本 1.0**  

@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: default
 title: Спецификација Language Variant Tag (LVTag)
+lang: sr
 ---
 
 # LVTag спецификација

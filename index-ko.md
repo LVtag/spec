@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: default
 title: 언어 변형 태그(LVTag) 사양
+lang: ko
 ---
 
 # LVTag 사양

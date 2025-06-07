@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: default
 title: Спецификация Language Variant Tag (LVTag)
+lang: ru
 ---
 
 # Спецификация LVTag

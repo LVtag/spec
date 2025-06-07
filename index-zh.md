@@ -3,6 +3,12 @@ layout: home
 title: 语言变体标记（LVTag）规范
 ---
 
+---
+layout: default
+title: 语言变体标签（LVTag）规范
+lang: zh
+---
+
 # LVTag 规范
 
 **版本 1.0**  
