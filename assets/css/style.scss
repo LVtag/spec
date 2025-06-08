@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the page header completely */
+.page-header {
+  display: none !important;
+}
+
+/* Optionally, adjust the main content to start from the top */
+.main-content {
+  padding-top: 2rem;
+}
