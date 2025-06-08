@@ -6,7 +6,7 @@ description: "LVTag je sustavan pristup jezičnoj klasifikaciji koji proširuje 
 ---
 
 <div align="center">
-  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="400">
+  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="200">
 </div>
 
 # LVTag specifikacija

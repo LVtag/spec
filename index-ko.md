@@ -6,7 +6,7 @@ description: "LVTag는 형식성, 공손함, 도메인 및 철자법 차원에�
 ---
 
 <div align="center">
-  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="400">
+  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="200">
 </div>
 
 # LVTag 사양

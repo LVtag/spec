@@ -6,7 +6,7 @@ description: "LVTag to systematyczne podejście do klasyfikacji języków, któr
 ---
 
 <div align="center">
-  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="400">
+  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="200">
 </div>
 
 # Specyfikacja LVTag
