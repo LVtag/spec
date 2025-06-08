@@ -6,7 +6,7 @@ description: "LVTag — это систематический подход к я
 ---
 
 <div align="center">
-  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="200">
+  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="100">
 </div>
 
 # Спецификация LVTag

@@ -6,7 +6,7 @@ description: "LVTag是一种系统化的语言分类方法，通过使用私有�
 ---
 
 <div align="center">
-  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="200">
+  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="100">
 </div>
 
 # LVTag 规范

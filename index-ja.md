@@ -6,7 +6,7 @@ description: "LVTagは、BCP 47をプライベート使用サブタグで拡張�
 ---
 
 <div align="center">
-  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="200">
+  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="100">
 </div>
 
 # LVTag 仕様
