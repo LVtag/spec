@@ -5,6 +5,10 @@ lang: ja
 description: "LVTagは、BCP 47をプライベート使用サブタグで拡張し、形式性、丁寧さ、ドメイン、正書法の次元にわたって言語変種を正確に識別するための体系的な言語分類アプローチです。"
 ---
 
+<div align="center">
+  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="400">
+</div>
+
 # LVTag 仕様
 
 **バージョン 1.0**  

@@ -5,6 +5,10 @@ lang: ko
 description: "LVTag는 형식성, 공손함, 도메인 및 철자법 차원에서 언어 변종을 정확하게 식별하기 위해 사설 사용 하위 태그를 사용하여 BCP 47을 확장하는 체계적인 언어 분류 접근법입니다."
 ---
 
+<div align="center">
+  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="400">
+</div>
+
 # LVTag 사양
 
 **버전 1.0**  

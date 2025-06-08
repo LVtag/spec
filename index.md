@@ -3,6 +3,10 @@ layout: default
 title: Language Variant Tag (LVTag) Specification
 ---
 
+<div align="center">
+  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="400">
+</div>
+
 # LVTag Specification
 
 **Version 1.0**  

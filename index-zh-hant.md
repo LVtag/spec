@@ -5,6 +5,10 @@ lang: zh-Hant
 description: "LVTag是一種系統化的語言分類方法，通過使用私有子標籤擴展BCP 47，以精確識別跨正式性、禮貌程度、領域和正字法維度的語言變體。"
 ---
 
+<div align="center">
+  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="400">
+</div>
+
 # LVTag 規範
 
 **版本 1.0**  

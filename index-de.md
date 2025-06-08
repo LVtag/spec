@@ -5,6 +5,10 @@ lang: de
 description: "LVTag ist ein systematischer Ansatz zur Sprachklassifikation, der BCP 47 durch private Subtags erweitert, um Sprachvarianten über die Dimensionen Formalität, Höflichkeit, Domäne und Orthographie präzise zu identifizieren."
 ---
 
+<div align="center">
+  <img src="/LVTAG_LOGO.png" alt="LVTag Logo" width="400">
+</div>
+
 # LVTag-Spezifikation
 
 **Version 1.0**  
